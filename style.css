@@ -1,0 +1,12 @@
+.image1{
+    position: absolute;
+    width: 100%;
+    clip-path: polygon(100% 0, 23% 0, 100% 100%);
+}
+
+.image2{
+    position: absolute;
+    margin: 62% 0 0 0;
+    width: 100%;
+    clip-path: polygon(100% 0, 0% 100%, 100% 100%);
+}
